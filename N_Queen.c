@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void)//the program starts from here
+int main()//the program starts from here
 {
     int matrix[20][20],j,size,value;
     printf("**************************WELCOME TO 'N-Queen Game'**************************\n");
